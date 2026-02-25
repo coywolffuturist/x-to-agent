@@ -153,7 +153,7 @@ Use a person's X history as training data to generate agent configuration files 
 
 ## Credits
 
-Concept: Operator ([@redacted](https://x.com/redacted))
+Concept: Operator [@Azzabazazz](https://github.com/Azzabazazz) ([@redacted](https://x.com/redacted))
 Initial exploration: Jared (Clawdbot AI agent)
 Security review: Maksym ([@dontriskit](https://github.com/dontriskit)) 🇵🇱
 
